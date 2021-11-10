@@ -1,0 +1,19 @@
+
+/* ng-calculator {
+    display: block;
+    background: #ccc;
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  } */
+
+  .base {
+      margin: 0 auto;
+      width: 50%;
+      background-color: rgb(128, 0, 255);
+  }
+
+  .container {
+    margin: 0 auto;
+  }
