@@ -47,7 +47,7 @@ export class AppComponent implements OnInit {
     this.calcAnswer();
   }
  
- 
+ //proba komenatar
   getLastOperand() {
     let pos:number;
     console.log(this.input)
